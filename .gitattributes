@@ -1,0 +1,2 @@
+# sh breaks on CRLF line ends, which Git on Windows would otherwise check out.
+*.sh text eol=lf

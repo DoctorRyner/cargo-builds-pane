@@ -1,0 +1,6 @@
+{
+  "name": "cargo-builds-pane",
+  "owner": { "name": "DoctorRyner" },
+  "description": "A Claude Code pane for live cargo build and test progress.",
+  "plugins": [{ "name": "cargo-builds", "source": "./" }]
+}

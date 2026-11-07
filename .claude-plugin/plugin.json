@@ -1,0 +1,9 @@
+{
+  "name": "cargo-builds",
+  "version": "0.1.0",
+  "description": "A pane beside the chat with every cargo build and test run: live progress from cargo's crate count, time, OK or FAILED with the first error, and a notification when it ends.",
+  "author": { "name": "DoctorRyner" },
+  "license": "MIT",
+  "keywords": ["rust", "cargo", "build", "pane"],
+  "types": "./types/index.d.ts"
+}
